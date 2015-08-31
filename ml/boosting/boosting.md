@@ -4,7 +4,7 @@
 val xs: List[Int] = java.util.Arrays.asList(1, 2, 3)
 ```
 
-[halcat0x15a](https://twitter.com/halcat0x15a)
+[@rkyymmt](https://twitter.com/rkyymmt)
 
 
 
