@@ -1,11 +1,6 @@
 # ブースティング
 
-```scala
-vaaaaaaaa
-```
-
 [@rkyymmt](https://twitter.com/rkyymmt)
-
 
 
 ## java.util.List
@@ -22,3 +17,8 @@ Scalaからは使いづらい
 
 * scala.collection.JavaConverters
 * scala.collection.breakOut
+
+
+```scala
+vaaaaaaaa
+```
